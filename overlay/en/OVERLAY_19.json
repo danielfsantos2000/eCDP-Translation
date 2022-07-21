@@ -33,15 +33,22 @@
     "1480932": "Rotation.",
     "1480952": "For bagging trays",
     "1480972": "バスケッティング",
+<<<<<<< HEAD
     "1480992": "Oil the basket.",
     "1481012": "When the buzzer sounds",
     "1481032": "At the second buzzer.",
+=======
+    "1480992": "バスケットの油を",
+    "1481012": "When the buzzer sounds",
+    "1481032": "２回目のブザーで",
+>>>>>>> master
     "1481052": "バスケッティングは",
     "1481072": "Let's split it into two parts.",
     "1481092": "Freshly fried fries.",
     "1481112": "同じバットに同時に",
     "1481132": "Spread it over the entire area.",
     "1481152": "同じバットに同時に",
+<<<<<<< HEAD
     "1481172": "Potatoes stick together.",
     "1481192": "Potatoes are 5 to 10 seconds.",
     "1481216": "Defend and place.",
@@ -57,4 +64,21 @@
     "1481500": "Slide the basket to the right",
     "1481536": "Slide the basket to the left",
     "1481612": "Touch and hold the potato and wait 5-10 seconds"
+=======
+    "1481172": "ポテトはくっついて",
+    "1481192": "ポテトは5-10 seconds",
+    "1481216": "守って配置して下さい",
+    "1481240": "守って配置して下さい",
+    "1481264": "２個入れないで下さい",
+    "1481288": "２個入れないで下さい",
+    "1481312": "バットに入らないよう",
+    "1481336": "ポテトはカリカリとして",
+    "1481360": "油っぽくありませんか？",
+    "1481408": "Press 'Fast Forward'",
+    "1481436": "十字ボタンの左を押して下さい",
+    "1481468": "十字ボタンの右を押して下さい",
+    "1481500": "Slide the basket to the right",
+    "1481536": "Slide the basket to the left",
+    "1481612": "ポテトをタッチしたまま、５〜１０秒間待つ"
+>>>>>>> master
 }
